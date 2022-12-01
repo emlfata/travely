@@ -25,7 +25,7 @@ include "../Client.php";
                     <p class="text-gray-700 text-base">11-18 Des 2022</p>
                     <p class="text-gray-700 text-base font-bold">start from 10.000.000 IDR</p>
                 </div>
-                <a href="details.php"><button class="px-6 py-4 text-center w-full font-semibold bg-gray-200" type="button">Details</button></a>
+                <a href="details.php"><button class="px-6 py-4 text-center w-full font-semibold bg-blue-500 text-white" type="button">Details</button></a>
             </div>
             <!--Card 2-->
             <div class="rounded overflow-hidden shadow-lg">
